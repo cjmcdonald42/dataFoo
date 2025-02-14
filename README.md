@@ -9,7 +9,7 @@
 Minecraft datapack template. \
 Datapacks were added in Minecraft 1.13 and have become more robust with each version of Minecraft.
 
-The dataFoo folder is the modpack - move that into your datapack folder.
+The dataFoo folder is the modpack - move that into your datapack folder. For purposes of this tutorial, I have added a function to give all players the night vision effect as an example.
 
 Format value 15 = Minecraft v1.20 to 1.20.1 \
 [Wiki: Data Pack](https://minecraft.wiki/w/Data_pack) \
