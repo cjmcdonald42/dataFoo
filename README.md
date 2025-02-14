@@ -1,0 +1,2 @@
+# dataFoo
+Minecraft datapack template
